@@ -1,1 +1,2 @@
 from .euclidean_distance import euclidean_distance
+from .f_classification import f_classification
