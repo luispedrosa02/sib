@@ -1,0 +1,8 @@
+rgb - problema binário - pode ser uam das questões do repositório - como e que eu faria de forma binaria
+como se faz cross enter 
+
+correr código que tenho ate agora da parte do machine learning, agora vamos iniciar deeplearning
+
+numy.prod
+
+adaptar lost functions
